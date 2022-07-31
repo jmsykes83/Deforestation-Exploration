@@ -79,7 +79,7 @@ There were nine countries in the top quartile in 2016. These are countries with 
 | Country    | Region                    | Pct Designated as Forest |       |
 |------------|---------------------------|--------------------------|-------|
 | Suriname   | Latin America & Caribbean | 98.26                    |       |
-| Micronesia | Fed. Sts.                 | East Asia & Pacific      | 91.86 |
+| Micronesia  Fed. Sts.                 | East Asia & Pacific      | 91.86 |
 | Gabon      | Sub-Saharan Africa        | 88.41                    |       |
 
 #### 5. RECOMMENDATIONS
